@@ -1,0 +1,242 @@
+
+.row{
+    border: solid 2px black;
+    height: 15px;
+    width: 300px;
+    margin: auto;
+    position: relative;
+    top: 100px;
+}
+
+
+.col{
+    border: solid 2px black;
+height: 14px;
+width: 26px;
+float: left;
+    
+}
+
+.govde {
+    border: solid 2px black;
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    position: relative;
+    top: 100px;
+    border-radius: 49px 49px 0px 0px;
+}
+
+.cam {
+  
+    height: 143px;
+    width: 395px;
+    margin: auto;
+    position: relative;
+    top: 2px;
+    background-color: lightsteelblue;
+    border-radius: 52px 52px 0px 0px;
+}
+
+
+
+.silecek{
+    border: solid 2px ;
+    border-color: black black lightsteelblue  black ;
+    height: 50px;
+    width: 280px;
+    margin: auto;
+    position: relative;
+    top: 86px;
+    background-color: lightsteelblue;
+    border-radius: 52px 52px 0px 0px;
+}
+
+.left-kenar {
+    border: solid 2px orangered;
+    height: 251px;
+    width: 135px;
+    margin: auto;
+
+    float: left;
+    position: relative;
+    top: 2px;
+
+    background-color: #ff3f00;
+    border-radius: 0px 210px 0px 0px;
+
+}
+
+.left-far1 {
+    border: solid 2px darkslategrey;
+    border-radius: 32px;
+    height: 60px;
+    width: 60px;
+    margin: auto;
+    position: relative;
+    top: 130px;
+    background-color: gray;
+}
+
+.left-far-isigi {
+    border: solid 2px rgb(0, 0, 0);
+    height: 45px;
+    width: 45px;
+    border-radius: 25px;
+    margin: auto;
+    position: relative;
+    top: 5px;
+    background-color: azure;
+}
+
+
+.right-kenar {
+    border: solid 2px #ff3f00;
+    height: 251px;
+    width: 135px;
+    margin: auto;
+top: 2px;
+position: relative;
+    float: right;
+
+    border-radius: 210px 0px 0px 0px;
+    background-color: #ff3f00;
+
+}
+
+
+.right-far1 {
+    border: solid 2px darkslategrey;
+    border-radius: 32px;
+    height: 60px;
+    width: 60px;
+    margin: auto;
+    position: relative;
+    top: 130px;
+    background-color: gray;
+}
+
+.right-far-isigi {
+    border: solid 2px rgb(0, 0, 0);
+    height: 45px;
+    width: 45px;
+    border-radius: 25px;
+    margin: auto;
+    position: relative;
+    top: 5px;
+    background-color: azure;
+}
+
+.daire {
+    border: solid grey 5px;
+    border-radius: 55px;
+    height: 90px;
+    width: 90px;
+    margin: auto;
+    position: relative;
+    top: 9px;
+    background-color: lightgray;
+}
+
+.daire img{
+    height: 95px; 
+    width: 95px;
+    margin: auto;
+    position: relative;
+    bottom: 2px;
+    right: 2px;
+}
+
+.alti {
+    
+    height: 20px;
+    width: 420px;
+    margin: auto;
+    position: relative;
+    top: 100px;
+    border-radius: 12px;
+    background-color: darkslategray;
+}
+
+.left-tekerlek {
+   
+    height: 50px;
+    width: 45px;
+    margin: auto;
+    position: relative;
+    border-radius: 0px 0px 20px 20px;
+    top: 99px;
+    right: 130px;
+    background-color: black;
+}
+
+.right-tekerlek {
+   
+    height: 50px;
+    width: 45px;
+    margin: auto;
+    position: relative;
+    border-radius: 0px 0px 20px 20px;
+    top: 49px;
+    left: 130px;
+    background-color: black;
+}
+
+.plaka {
+    border: solid 2px black;
+    height: 48px;
+    width: 70px;
+    margin: auto;
+    position: relative;
+    bottom: 45px;
+   
+    background-color: azure;
+
+}
+
+.plaka h4 {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    letter-spacing: 0px;
+
+    margin: auto;
+    float: right;
+    text-align: center;
+
+}
+
+
+
+
+.left-cam {
+    
+    height: 45px;
+    width: 45px;
+    border-radius: 25px;
+    margin: auto;
+    position: relative;
+    bottom: 380px;
+    right: 222px;
+    border-radius: 25px 15px 20px 30px;
+    background-color: darkslategray;
+}
+
+.right-cam {
+    
+    height: 45px;
+    width: 45px;
+    border-radius: 25px;
+    margin: auto;
+    position: relative;
+    bottom: 425px;
+    left: 223px;
+    border-radius: 15px 25px 30px 20px;
+    background-color: darkslategray;
+}
+
+.cizgi{
+    border: solid 5px sienna;
+    position: relative;
+    bottom: 92px;
+}
